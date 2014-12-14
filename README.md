@@ -7,4 +7,4 @@ Let's get some Elixir rolling in Lisbon! http://meetup.com/lisbon-elixir
 Meetups
 ========
 
-- [First meetup scheduled](http://www.meetup.com/lisbon-elixir/events/218779045/) for December the 12th at 18h!
+- [First meetup! December 12th 2014](http://www.meetup.com/lisbon-elixir/events/218779045/)
